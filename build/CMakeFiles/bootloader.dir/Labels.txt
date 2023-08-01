@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/SpotMicro_ESP32/code/esp-idf/ik_test/build/CMakeFiles/bootloader
+D:/SpotMicro_ESP32/code/esp-idf/ik_test/build/CMakeFiles/bootloader.rule
+D:/SpotMicro_ESP32/code/esp-idf/ik_test/build/CMakeFiles/bootloader-complete.rule
+D:/SpotMicro_ESP32/code/esp-idf/ik_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/SpotMicro_ESP32/code/esp-idf/ik_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/SpotMicro_ESP32/code/esp-idf/ik_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/SpotMicro_ESP32/code/esp-idf/ik_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/SpotMicro_ESP32/code/esp-idf/ik_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/SpotMicro_ESP32/code/esp-idf/ik_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/SpotMicro_ESP32/code/esp-idf/ik_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
